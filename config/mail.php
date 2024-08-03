@@ -14,11 +14,11 @@ function sendMail($email, $body, $subject, $name, $html = false){
     $phpmailer->isSMTP();
     $phpmailer->CharSet  = 'UTF-8';
     $phpmailer->Encoding = 'base64';
-    $phpmailer->Host     = 'sandbox.smtp.mailtrap.io';
+    $phpmailer->Host     = '';
     $phpmailer->SMTPAuth = true;
     $phpmailer->Port     = 2525;
-    $phpmailer->Username = '2521c47e4daee1';
-    $phpmailer->Password = 'd4979fdfe80e0a';
+    $phpmailer->Username = '';
+    $phpmailer->Password = '';
 
     //Recipients
     $phpmailer->setFrom('from@example.com', 'Mailer');
