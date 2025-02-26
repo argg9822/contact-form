@@ -2,7 +2,7 @@
 
 Este proyecto es un formulario de contacto desarrollado en PHP que incluye validaciones robustas para la información ingresada por el usuario y la funcionalidad de envío de correos electrónicos a través de PHPMailer.
 
-![Captura de pantalla formulario de contacto]('media/contact_form.jpg')
+![Captura de pantalla formulario de contacto](media/contact_form.jpg)
 
 ## Características
 
