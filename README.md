@@ -30,7 +30,7 @@ Este proyecto es un formulario de contacto desarrollado en PHP que incluye valid
 1.  Clonar el repositorio:
 
     ```bash
-    git clone [https://github.com/argg9822/contact-form.git](https://github.com/argg9822/contact-form.git)
+    git clone https://github.com/argg9822/contact-form.git
     ```
 
 2.  Navegar al directorio del proyecto:
