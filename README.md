@@ -30,13 +30,13 @@ Este proyecto es un formulario de contacto desarrollado en PHP que incluye valid
 1.  Clonar el repositorio:
 
     ```bash
-    git clone [https://github.com/borkdude/html/blob/main/.dir-locals.el](https://github.com/borkdude/html/blob/main/.dir-locals.el)
+    git clone [https://github.com/argg9822/contact-form.git](https://github.com/argg9822/contact-form.git)
     ```
 
 2.  Navegar al directorio del proyecto:
 
     ```bash
-    cd [nombre del directorio del proyecto]
+    cd contact-form
     ```
 
 3.  Instalar las dependencias con Composer:
